@@ -36,3 +36,4 @@ jspm_packages
 # Hexo
 db.json
 .deploy_git
+public
