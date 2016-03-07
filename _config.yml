@@ -5,15 +5,15 @@
 # Site
 title: 衒思力泉水観
 subtitle: よしなしごとでよしなしごと
-description: とりあえず、仮
+description: よしなしごとでよしなしごと
 author: Shutaro Takimoto
 language: ja
 timezone: Japan
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://tak.im
-root: /
+url: http://tak.im/blog/
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
